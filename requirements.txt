@@ -1,0 +1,12 @@
+beautifulsoup4==4.8.2
+certifi==2019.11.28
+chardet==3.0.4
+flake8==3.7.9
+flake8-builtins==1.5.2
+flake8-import-order==0.18.1
+idna==2.9
+requests==2.23.0
+six==1.14.0
+soupsieve==2.0
+urllib3==1.25.8
+user-agent==0.1.9
